@@ -1,0 +1,51 @@
+h3 {
+    font: normal 18pt sans-serif, serif;
+    border: hidden; 
+    padding: 2px;
+    margin: 5px;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    border: hidden;
+    margin: 0%;
+    padding: 0%;
+}
+
+.outer-card {
+    width: 300px;
+    border: 1px solid lightgrey;
+    border-radius: 5%;
+    margin: 2px;
+    padding: 10px;
+    box-shadow: 7px 7px 2px #efeff5;
+}
+
+.inner-card {
+    border: 1px solid lightgrey;
+    border-radius: 5%;
+    margin: 0px;
+    padding: 10px;
+}
+
+span {
+    font: bold 10pt sans-serif, serif;
+}
+
+ul {
+    font: normal 10pt sans-serif, serif;
+    list-style: none;
+    text-align: left;
+    margin: 0%;
+    padding: 0%;
+}
+
+.fact {
+    font: italic 10pt sans-serif, serif;
+}
+
+.description {
+    font: normal 10pt sans-serif, serif;
+}
